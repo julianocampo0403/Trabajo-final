@@ -1,0 +1,30 @@
+main {
+    background-color: #153243;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+head h1 {
+    font-family: 'DM Serif Display', serif;
+}
+section {
+    background-color: #3A7CA5;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    
+    margin: 20px;
+    width: 100%;
+    justify-self: auto;
+}
+img {
+    width: 450px;
+    height: 400px;
+    margin: 15px;
+    padding: 15px;
+
+}
+   
+    

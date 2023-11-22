@@ -1,0 +1,23 @@
+header {
+    background-color: aqua;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-inline: 50px;
+    padding: 20px;
+    margin: 50px;
+}
+section {
+    background-color: #a2310ef1;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+}
